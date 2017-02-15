@@ -1,0 +1,130 @@
+
+.navbar .navbar-search .dropdown-menu { min-width: 50px; }
+.dropdown-menu .label-icon { margin-left: 5px; }
+.btn-outline {
+    background-color: transparent;
+    color: inherit;
+    transition: all .5s;
+}
+.col-md-6{
+     padding-left: 0px ;
+}
+
+#custom-search-input {
+        margin:0;
+        margin-top: 10px;
+       padding: 0;
+    }
+ 
+    #custom-search-input .search-query {
+        padding-right: 3px;
+        padding-right: 4px \9;
+        padding-left: 3px;
+        padding-left: 4px \9;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+ 
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+    }
+.add-on .input-group-btn > .btn {
+  border-left-width:0;left:-2px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+.msginvalid {
+    color: #ff6666; 
+}
+.msgvalid {
+    color: #006600; 
+}
+.page-header{
+    padding-left: 0px !important;
+    width: 100% !important;
+}
+.bs-example {
+    margin-right: 0;
+    margin-left: 0;
+    background-color: #fff;
+    border-color: #ddd;
+    border-width: 1px;
+    border-radius: 4px 4px 0 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.bs-example {
+    position: relative;
+    padding: 40px 5px 45px; 
+    border-color: #e5e5e5 #eee #eee;
+    border-style: solid;
+    border-width: 1px 0;
+    -webkit-box-shadow: inset 0 3px 6px rgba(0,0,0,.05);
+    box-shadow: inset 0 3px 6px rgba(0,0,0,.05);
+}
+.img-circle
+{
+
+  width: 140px;
+  height: 140px;
+}
+/* .img-circle
+{
+
+  width: 140px;
+  height: 140px;
+} */
+.bs-example:after {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #959595;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    content: "Student details";
+}
+.row{
+    margin-top: 15px;
+}
+.container .jumbotron, .container-fluid .jumbotron {
+    padding-left: 15px;
+   /* padding-bottom: 0px;*/
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+.container {
+    width: 1000px;
+}
+
+.col-sm-4
+{
+    float: left !important;
+}
+.navbar .navbar-search .dropdown-menu { min-width: 25px; }
+.dropdown-menu .label-icon { margin-left: 5px; }
+.btn-outline {
+    background-color: transparent;
+    color: inherit;
+    transition: all .5s;
+}
+#imaginary_container{
+    margin-top:20%; /* Don't copy this */
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	    color: #2679b5;
+	}
